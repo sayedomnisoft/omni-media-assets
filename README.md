@@ -8,6 +8,7 @@ its link here at posting time. The free tools live in the separate `tools` repos
 | Folder | What is in it |
 |---|---|
 | `inherit/` | Episodes of the "Inherit" AI-made drama series |
+| `december/` | December and Christmas videos ("Say What, Boss?", "Which Excel Is The Latest?", the Christmas greeting) |
 
 Rules for this repository:
 
